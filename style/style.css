@@ -11,4 +11,43 @@
     margin: 0 auto;
     padding: 0 15px;
 }
-
+.umid{
+     max-width: 1140px;
+     margin: 0 auto;
+     margin-top: 30px;
+     margin-bottom: 30px;
+     display: flex;
+     flex-wrap: wrap;
+     flex-direction: row;
+     justify-content: space-between;
+}
+.umid_title{
+    text-align: start;
+    color: #000000;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 23.44px;
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+.umid_text{
+    color: #000000;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: left;
+}
+.umid_box{
+     display: flex;
+     justify-content: space-between;
+     gap: 30px;
+}
+.umid_left{
+    text-align: left;
+     padding: 20px;
+}
+.umid_right{
+   text-decoration: column;
+   justify-content: center;
+   align-items: center;
+}
