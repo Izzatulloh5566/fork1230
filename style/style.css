@@ -11,6 +11,7 @@
     margin: 0 auto;
     padding: 0 15px;
 }
+
 .umid{
      max-width: 1140px;
      margin: 0 auto;
@@ -51,3 +52,51 @@
    justify-content: center;
    align-items: center;
 }
+=======
+.dima{
+    max-width: 1140px;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.dima_title{
+   color: #000;
+   font-size: 20px;
+   font-weight: 700;
+   line-height: 23.44px;
+   margin-top: 50px;
+   margin-bottom: 25px;
+   font-family: Hind Madurai;
+   font-size: 26px;
+   font-weight: 700;
+   line-height: 35.88px;
+   text-align: right;
+
+}
+.dima_text{
+    width: 444px;
+    height: 67px;
+    top: 2723px;
+    left: 301px;
+    gap: 0px;
+    opacity: 0.7px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: right;
+
+}
+.dima_box{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+.dima_left{
+    
+}
+
